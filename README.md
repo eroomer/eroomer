@@ -17,7 +17,7 @@ KAIST 전산학부 21학번
 
 ## 2026 Co-op 사전교육 프로젝트
 3D 디지털 트윈 관제 시스템을 위한 비동기 AI API 서버
-[🔗 Notion 링크]
+[🔗 Notion 링크](https://www.notion.so/Co-op-3D-AI-API-30f33fe9eef5808e98edd74378009293?source=copy_link)
 
 <!--
 **eroomer/eroomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
